@@ -1,2 +1,2 @@
 # Corey在线教育前端
-Corey在线教育前端包含corey_edu_admin和corey_edu_web
+Corey在线教育前端包含后台管理和前台显示
